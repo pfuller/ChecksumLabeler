@@ -1,0 +1,5 @@
+Project to add checksum keys for files in a directory
+
+To create executable jar use:
+
+mvn assembly:assembly
